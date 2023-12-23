@@ -1,42 +1,9 @@
-# Content v2 Minimal Starter
+![Marquee Logo](https://i.ibb.co/CBZRMDC/marquee-Logo.png)
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+This is the landing page (not the actual app) of a Work-in-progress project, Marquee. Check out the main app ![here](https://github.com/rowandevving/marquee-app).
 
-## Setup
+Marquee is a platform that allows teachers or other educators to quickly and easily create interactive flashcard experiences, and pair them with fun quizzes.
 
-Make sure to install the dependencies:
+It is in its very early stages and is no way a functional app, and I will most likely be the sole contributor to this project until it expands significantly.
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Stay tuned for further updates!
