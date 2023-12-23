@@ -9,6 +9,12 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.9.0",
-    "nuxt": "^3.8.2"
+    "daisyui": "^4.4.23",
+    "nuxt": "^3.8.2",
+    "v-smooth-scroll": "2.0.0-beta.2"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "nuxt-icon": "^0.6.7"
   }
 }
