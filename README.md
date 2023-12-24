@@ -1,4 +1,4 @@
-![Marquee Logo](https://i.ibb.co/CBZRMDC/marquee-Logo.png)
+![Marquee Logo](./assets/logo/MarqueeLogoText.png)
 
 This is the landing page (not the actual app) of a Work-in-progress project, Marquee. Check out the main app ![here](https://github.com/rowandevving/marquee-app).
 
