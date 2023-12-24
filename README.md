@@ -1,7 +1,7 @@
 ![Marquee Logo](./assets/logo/MarqueeLogoText.png)
 
 
-This is the landing page (not the actual app) of a Work-in-progress project, Marquee. Check out the main app ![here](https://github.com/rowandevving/marquee-app).
+This is the landing page (not the actual app) of a Work-in-progress project, Marquee. Check out the main app ![here](https://github.com/heather-development/marquee-app).
 
 Marquee is a platform that allows teachers or other educators to quickly and easily create interactive flashcard experiences, and pair them with fun quizzes.
 
